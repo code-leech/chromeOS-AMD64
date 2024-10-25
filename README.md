@@ -1,6 +1,6 @@
 # How to run AMD64 apps on a Chromebook
 
-## Feel free to skip this rant [here](https://github.com/code-leech/chromeOS-AMD64/blob/main/README.md#setup)
+## Feel free to skip this rant [here](https://github.com/code-leech/chromeOS-AMD64#setup)
 Chromebooks are kinda annoying, as they tend to be either ARM chipsets or x86 chipsets. This means that you can't play most videogames or most computer apps.
 
 Luckily, after finding **NO FREAKING WAY TO INSTALL AMD64 APPS ON MY STUPID CHROMEBOOK**, I came up with a solution:
